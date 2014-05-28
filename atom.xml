@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[我的第一个Octopress 博客]]></title>
+  <link href="http://huos3203.github.io/MyOctopress/atom.xml" rel="self"/>
+  <link href="http://huos3203.github.io/MyOctopress/"/>
+  <updated>2014-05-28T19:53:50+08:00</updated>
+  <id>http://huos3203.github.io/MyOctopress/</id>
+  <author>
+    <name><![CDATA[三剑客品JAVA]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
