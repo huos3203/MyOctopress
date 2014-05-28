@@ -4,7 +4,7 @@
   <title><![CDATA[我的第一个Octopress 博客]]></title>
   <link href="http://huos3203.github.io/MyOctopress/atom.xml" rel="self"/>
   <link href="http://huos3203.github.io/MyOctopress/"/>
-  <updated>2014-05-28T19:53:50+08:00</updated>
+  <updated>2014-05-28T21:00:18+08:00</updated>
   <id>http://huos3203.github.io/MyOctopress/</id>
   <author>
     <name><![CDATA[三剑客品JAVA]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wo De Di [?] Pian Ri Zhi]]></title>
+    <link href="http://huos3203.github.io/MyOctopress/blog/2014/05/28/wo-de-di-%5B%3F%5D-pian-ri-zhi/"/>
+    <updated>2014-05-28T00:00:00+08:00</updated>
+    <id>http://huos3203.github.io/MyOctopress/blog/2014/05/28/wo-de-di-[?]-pian-ri-zhi</id>
+    <content type="html"><![CDATA[<p>i&mdash;&ndash;
+layout: post
+title: &ldquo;我的第一篇日志&rdquo;
+date: 2014-05-28 20:54:05 +0800
+comments: true</p>
+
+<h2>categories: </h2>
+
+<p>你好，这是我的第一篇日志，请多多关照！ 我是新手你好，这是我的第一篇日志，请多多关照！</p>
+]]></content>
+  </entry>
   
 </feed>
