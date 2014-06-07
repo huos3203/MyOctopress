@@ -3,7 +3,6 @@
 .sass-cache
 .gist-cache
 .pygments-cache
-_deploy
 public
 source/_stash
 source/stylesheets/screen.css
